@@ -1,0 +1,57 @@
+
+Cardiology (Heart) | طب القلب
+Dermatology (Skin) | طب الجلد
+Endocrinology (Hormones & Diabetes) | طب الغدد الصماء والسكري
+Gastroenterology (Digestive System) | طب الجهاز الهضمي
+Nephrology (Kidneys) | طب الكلى
+Neurology (Nervous System) | طب الأعصاب
+Obstetrics & Gynecology (Women's Health) | أمراض النساء والتوليد
+Oncology (Cancer) | طب الأورام
+Ophthalmology (Eyes) | طب العيون
+Orthopedics (Bones & Joints) | طب العظام
+Otolaryngology (ENT) | طب الأنف والأذن والحنجرة
+Pediatrics (Children's Health) | طب الأطفال
+Psychiatry (Mental Health) | الطب النفسي
+Pulmonology (Lungs) | طب الجهاز التنفسي
+Rheumatology (Joints & Muscles) | طب الروماتيزم
+Urology (Urinary System) | طب المسالك البولية
+Vascular Surgery (Blood Vessels) | جراحة الأوعية الدموية
+Plastic & Reconstructive Surgery | الجراحة التجميلية والترميمية
+Hematology (Blood Disorders) | أمراض الدم
+Immunology (Immune System) | طب المناعة
+Radiology (Medical Imaging) | الأشعة التشخيصية
+Anesthesiology | التخدير
+Allergy & Immunology | الحساسية والمناعة
+Pain Management | إدارة الألم
+Infectious Diseases | الأمراض المعدية
+Family Medicine | طب الأسرة
+General Surgery | الجراحة العامة
+Internal Medicine | الطب الباطني
+Sports Medicine | الطب الرياضي
+Geriatrics (Elderly Care) | طب الشيخوخة
+Palliative Care | الرعاية التلطيفية
+Neonatology (Newborn Care) | طب حديثي الولادة
+Emergency Medicine | طب الطوارئ
+Critical Care Medicine (Intensive Care) | طب العناية المركزة
+Clinical Pathology | الباثولوجيا السريرية
+Forensic Medicine | الطب الشرعي
+Occupational Medicine | طب العمل
+Rehabilitation Medicine | طب التأهيل
+Addiction Medicine | طب الإدمان
+Sleep Medicine | طب النوم
+Neurosurgery (Brain & Spinal Cord Surgery) | جراحة الأعصاب
+Colorectal Surgery | جراحة القولون والمستقيم
+Bariatric Surgery (Weight Loss Surgery) | جراحة السمنة
+Breast Surgery | جراحة الثدي
+Thoracic Surgery (Chest Surgery) | جراحة الصدر
+Maxillofacial Surgery (Face & Jaw Surgery) | جراحة الوجه والفكين
+Transplant Surgery | جراحة زرع الأعضاء
+Genetic Medicine | الطب الجيني
+Reproductive Medicine (Fertility & IVF) | الطب التناسلي
+Hyperbaric Medicine (Oxygen Therapy) | الطب بالأكسجين المضغوط
+Medical Genetics | الوراثة الطبية
+Endovascular Surgery | جراحة الأوعية الدموية الداخلية
+Aesthetic Medicine (Non-surgical Treatments) | الطب التجميلي
+Clinical Pharmacology | الطب الدوائي
+Pediatric Cardiology | طب قلب الأطفال
+Pediatric Oncology | طب أورام الأطفال
