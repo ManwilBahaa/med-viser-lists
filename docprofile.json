@@ -1,4 +1,4 @@
-{
+[{
     id: 1,
     name: "Dr. Jane Smith",
     nameAr: "د. جين سميث",
@@ -54,4 +54,4 @@
         { name: "Sarah M.", nameAr: "سارة م.", rating: 4, comment: "Very knowledgeable and patient. Explains everything thoroughly.", commentAr: "ذات معرفة واسعة وصبورة. تشرح كل شيء بدقة." },
         { name: "Ahmed K.", nameAr: "أحمد ك.", rating: 5, comment: "Dr. Smith's preventive approach has greatly improved my heart health.", commentAr: "نهج الدكتورة سميث الوقائي حسّن صحة قلبي بشكل كبير." }
     ]
-}
+}]
