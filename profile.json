@@ -18,6 +18,12 @@
     experience: "15 years",
     experienceAr: "١٥ سنة",
     languages: ["English", "Spanish", "العربية"],
+    ,
+    clinicImages: [
+        "/clinic.jpg",
+        "/clinic.jpg",
+        "/clinic.jpg"
+    ],
     about: {
         en: "Dr. Jane Smith is a highly skilled cardiologist with over 15 years of experience in diagnosing and treating heart conditions. She specializes in interventional cardiology and has a particular interest in preventive cardiology.",
         ar: "الدكتورة جين سميث هي طبيبة قلب ماهرة للغاية ولديها أكثر من 15 عامًا من الخبرة في تشخيص وعلاج أمراض القلب. تتخصص في طب القلب التداخلي ولديها اهتمام خاص بطب القلب الوقائي."
