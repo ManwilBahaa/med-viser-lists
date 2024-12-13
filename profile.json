@@ -1,0 +1,57 @@
+{    
+    id: 1,
+    name: "Dr. Jane Smith",
+    nameAr: "د. جين سميث",
+    specialty: "Cardiologist",
+    specialtyAr: "طبيب القلب",
+    price: 200,
+    rating: 2.8,
+    totalReviews: 150,
+    image: "/placeholder.svg?height=128&width=128",
+    available: true,
+    topRecommended: true,
+    lastUpdate: "2023-12-01",
+    clinicLocation: "123 Medical St, Boston, MA",
+    clinicLocationAr: "١٢٣ شارع الطب، بوسطن، ماساتشوستس",
+    mapUrl: "https://goo.gl/maps/example1",
+    patientsServed: 45,
+    experience: "15 years",
+    experienceAr: "١٥ سنة",
+    languages: ["English", "Spanish", "العربية"],
+    about: {
+        en: "Dr. Jane Smith is a highly skilled cardiologist with over 15 years of experience in diagnosing and treating heart conditions. She specializes in interventional cardiology and has a particular interest in preventive cardiology.",
+        ar: "الدكتورة جين سميث هي طبيبة قلب ماهرة للغاية ولديها أكثر من 15 عامًا من الخبرة في تشخيص وعلاج أمراض القلب. تتخصص في طب القلب التداخلي ولديها اهتمام خاص بطب القلب الوقائي."
+    },
+    clinicImages: [
+        "/clinic.jpg",
+        "/clinic.jpg",
+        "/clinic.jpg"
+    ],
+    workHours: [
+        { day: "Sunday", dayAr: "الأحد", hours: "9:00 AM - 5:00 PM" },
+        { day: "Monday", dayAr: "الاثنين", hours: "9:00 AM - 5:00 PM" },
+        { day: "Tuesday", dayAr: "الثلاثاء", hours: "9:00 AM - 5:00 PM" },
+        { day: "Wednesday", dayAr: "الأربعاء", hours: "9:00 AM - 5:00 PM" },
+        { day: "Thursday", dayAr: "الخميس", hours: "9:00 AM - 5:00 PM" },
+        { day: "Friday", dayAr: "الجمعة", hours: "9:00 AM - 1:00 PM" },
+        { day: "Saturday", dayAr: "السبت", hours: "Closed" },
+    ],
+    education: [
+        { degree: "MD in Cardiology", degreeAr: "دكتوراه في طب القلب", institution: "Harvard Medical School", institutionAr: "كلية الطب بجامعة هارفارد", year: "2005" },
+        { degree: "Residency in Internal Medicine", degreeAr: "الإقامة في الطب الباطني", institution: "Massachusetts General Hospital", institutionAr: "مستشفى ماساتشوستس العام", year: "2008" },
+        { degree: "Fellowship in Interventional Cardiology", degreeAr: "زمالة في طب القلب التداخلي", institution: "Stanford University Medical Center", institutionAr: "مركز ستانفورد الطبي الجامعي", year: "2010" }
+    ],
+    publications: [
+        { title: "Advances in Preventive Cardiology", titleAr: "التقدم في طب القلب الوقائي", journal: "Journal of Cardiology", journalAr: "مجلة طب القلب", year: "2022" },
+        { title: "New Frontiers in Interventional Cardiology", titleAr: "آفاق جديدة في طب القلب التداخلي", journal: "American Heart Journal", journalAr: "المجلة الأمريكية لأمراض القلب", year: "2020" }
+    ],
+    awards: [
+        { title: "Top Cardiologist", titleAr: "أفضل طبيب قلب", organization: "Boston Magazine", organizationAr: "مجلة بوسطن", year: "2023" },
+        { title: "Research Excellence Award", titleAr: "جائزة التميز البحثي", organization: "American Heart Association", organizationAr: "جمعية القلب الأمريكية", year: "2021" }
+    ],
+    patientReviews: [
+        { name: "John D.", nameAr: "جون د.", rating: 5, comment: "Dr. Smith is an excellent cardiologist. Her expertise and care are unmatched.", commentAr: "الدكتورة سميث طبيبة قلب ممتازة. خبرتها ورعايتها لا مثيل لها." },
+        { name: "Sarah M.", nameAr: "سارة م.", rating: 4, comment: "Very knowledgeable and patient. Explains everything thoroughly.", commentAr: "ذات معرفة واسعة وصبورة. تشرح كل شيء بدقة." },
+        { name: "Ahmed K.", nameAr: "أحمد ك.", rating: 5, comment: "Dr. Smith's preventive approach has greatly improved my heart health.", commentAr: "نهج الدكتورة سميث الوقائي حسّن صحة قلبي بشكل كبير." }
+    ]
+}
