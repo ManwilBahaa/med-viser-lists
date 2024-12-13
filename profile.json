@@ -47,6 +47,6 @@
         { "title": "Research Excellence Award", "titleAr": "جائزة التميز البحثي", "organization": "American Heart Association", "organizationAr": "جمعية القلب الأمريكية", "year": "2021" }
     ],
     "patientReviews": [
-        { "name": "John D.", "nameAr": "جون د.", "rating": 5, "comment": "Dr. Smith is an excellent cardiologist. Her expertise and care are unmatched.", "commentAr": "الدكتورة سميث طبيبة قلب ممتازة. خبرتها ورعايتها لا مثيل لها." },
+        { "name": "John D.", "nameAr": "جون د.", "rating": 5, "comment": "Dr. Smith is an excellent cardiologist. Her expertise and care are unmatched.", "commentAr": "الدكتورة سميث طبيبة قلب ممتازة. خبرتها ورعايتها لا مثيل لها." }
        ]
 }
