@@ -22,11 +22,6 @@
         en: "Dr. Jane Smith is a highly skilled cardiologist with over 15 years of experience in diagnosing and treating heart conditions. She specializes in interventional cardiology and has a particular interest in preventive cardiology.",
         ar: "الدكتورة جين سميث هي طبيبة قلب ماهرة للغاية ولديها أكثر من 15 عامًا من الخبرة في تشخيص وعلاج أمراض القلب. تتخصص في طب القلب التداخلي ولديها اهتمام خاص بطب القلب الوقائي."
     },
-    clinicImages: [
-        "/clinic.jpg",
-        "/clinic.jpg",
-        "/clinic.jpg"
-    ],
     workHours: [
         { day: "Sunday", dayAr: "الأحد", hours: "9:00 AM - 5:00 PM" },
         { day: "Monday", dayAr: "الاثنين", hours: "9:00 AM - 5:00 PM" },
